@@ -919,14 +919,6 @@ For questions, clarifications, or assistance:
 
 ---
 
-## 📅 Important Dates
-
-- **Self Learning Start**: October 18
-- **Project Submission Deadlines**: Check the Project Submission Form
-- **Module Completion**: Follow the recommended learning path
-
----
-
 ## 🏆 Success Tips
 
 1. **Consistency**: Study regularly and practice daily

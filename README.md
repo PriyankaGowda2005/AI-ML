@@ -1,4 +1,4 @@
-# self learning
+# Self learning - AI&ML
 
 ## 📚 Course Overview
 

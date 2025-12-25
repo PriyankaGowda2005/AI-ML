@@ -948,4 +948,4 @@ This course material is provided for self learning purposes.
 
 **Good luck with your AI & ML learning journey! 🚀**
 
-_Last Updated: October 2024_
+_Last Updated: January 2025 by Priyanka Gowda_

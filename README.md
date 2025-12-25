@@ -1,8 +1,8 @@
-# InLighnX Global AI & ML Internship Program
+# self learning
 
 ## 📚 Course Overview
 
-This comprehensive internship program provides hands-on experience in Artificial Intelligence and Machine Learning, covering fundamental concepts to advanced deep learning and natural language processing techniques. The program is designed to equip interns with practical skills through theoretical learning, video sessions, and real-world project implementations.
+This comprehensive self learning program provides hands-on experience in Artificial Intelligence and Machine Learning, covering fundamental concepts to advanced deep learning and natural language processing techniques. The program is designed to equip learners with practical skills through theoretical learning, video sessions, and real-world project implementations.
 
 ---
 
@@ -30,8 +30,8 @@ This comprehensive internship program provides hands-on experience in Artificial
 
 **Date: October 18**
 
-1. **Mandatory Intro Video**: Watch the introductory video to understand the internship structure and expectations.
-2. **Internship Start Guide**: Review the learning modules and project submission guidelines.
+1. **Mandatory Intro Video**: Watch the introductory video to understand the self learning structure and expectations.
+2. **Self Learning Start Guide**: Review the learning modules and project submission guidelines.
 3. **Project Submission Form**: Familiarize yourself with the project submission process.
 
 ### Tips For Success
@@ -779,7 +779,7 @@ Using the SMS Spam Collection dataset to:
 
 ## 🎯 Learning Objectives
 
-By the end of this internship program, you will be able to:
+By the end of this self learning program, you will be able to:
 
 1. ✅ Understand fundamental machine learning concepts
 2. ✅ Implement various ML algorithms (Regression, Classification, Clustering)
@@ -811,13 +811,13 @@ For questions, clarifications, or assistance:
 - Review video sessions and notes
 - Check practical code examples
 - Engage in course discussions
-- Reach out through the internship platform
+- Reach out through the self learning platform
 
 ---
 
 ## 📅 Important Dates
 
-- **Internship Start**: October 18
+- **Self Learning Start**: October 18
 - **Project Submission Deadlines**: Check the Project Submission Form
 - **Module Completion**: Follow the recommended learning path
 
@@ -829,7 +829,7 @@ For questions, clarifications, or assistance:
 2. **Hands-on Practice**: Code along with video sessions
 3. **Projects**: Apply concepts in real projects
 4. **Documentation**: Keep notes and document your learning
-5. **Community**: Engage with fellow interns
+5. **Community**: Engage with fellow learners
 6. **Experimentation**: Try different approaches and techniques
 7. **Review**: Regularly review previous modules
 8. **Patience**: Deep learning takes time, be patient with the process
@@ -838,7 +838,7 @@ For questions, clarifications, or assistance:
 
 ## 📄 License
 
-This course material is provided by InLighnX Global for educational purposes.
+This course material is provided for self learning purposes.
 
 ---
 

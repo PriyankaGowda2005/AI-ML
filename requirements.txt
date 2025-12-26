@@ -1,0 +1,28 @@
+# Fake News Detection Project Requirements
+
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Natural Language Processing
+nltk>=3.6
+scikit-learn>=1.0.0
+
+# Deep Learning
+tensorflow>=2.8.0
+
+# Transformers (BERT)
+transformers>=4.15.0
+torch>=1.11.0
+
+# Dataset download
+kagglehub>=0.2.0
+
+# Utilities
+jupyter>=1.0.0
+notebook>=6.4.0
+
